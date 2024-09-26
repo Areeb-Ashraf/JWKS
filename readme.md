@@ -14,5 +14,5 @@
 
 - To run gradebot `cd` into the root folder and run `gradebot project1`
 
-*Gradebot Screenshot*
-![screenshot](gradebotScreenshot.png)
+**Gradebot Screenshot**
+![screenshot](ScreenshotGradeBot.png)
